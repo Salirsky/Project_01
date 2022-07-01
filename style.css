@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Teko:wght@400;700&display=swap');
+
+.main {
+    background: #141414;
+}
+.container {    
+    max-width: 1130px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 15px;
+}
