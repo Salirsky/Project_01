@@ -9,3 +9,24 @@
     position: relative;
     padding: 0 15px;
 }
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.nav__link {
+    color: #FFFFFF;
+    font-weight: 400; 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    text-decoration: none;
+    transition: .3s ease color;
+    margin-right: 45px;
+}
