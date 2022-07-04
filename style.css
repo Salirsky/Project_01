@@ -21,12 +21,17 @@
     list-style: none;
 }
 .nav__link {
-    color: #FFFFFF;
-    font-weight: 400; 
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-size: 15px;
+
     text-decoration: none;
     transition: .3s ease color;
     margin-right: 45px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 34px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
